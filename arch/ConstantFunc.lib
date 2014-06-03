@@ -1,0 +1,48 @@
+#include "lib/ConstantFuncs/is_boolean.asm"
+#include "lib/ConstantFuncs/car.asm"
+#include "lib/ConstantFuncs/cdr.asm"
+#include "lib/ConstantFuncs/Cons.asm"
+#include "lib/ConstantFuncs/Is_Eq.asm"
+#include "lib/ConstantFuncs/is_integer.asm"
+#include "lib/ConstantFuncs/is_null.asm"
+#include "lib/ConstantFuncs/is_number.asm"
+#include "lib/ConstantFuncs/is_pair.asm"
+#include "lib/ConstantFuncs/is_procedure.asm"
+#include "lib/ConstantFuncs/is_string.asm"
+#include "lib/ConstantFuncs/is_symbol.asm"
+#include "lib/ConstantFuncs/is_vector.asm"
+#include "lib/ConstantFuncs/is_zero.asm"
+#include "lib/ConstantFuncs/string-length.asm"
+#include "lib/ConstantFuncs/symboltostring.asm"
+#include "lib/ConstantFuncs/vector-length.asm"
+#include "lib/ConstantFuncs/vector-ref.asm"
+#include "lib/ConstantFuncs/stringtosymbol.asm"
+#include "lib/ConstantFuncs/is_char.asm"
+#include "lib/ConstantFuncs/chartointeger.asm"
+#include "lib/ConstantFuncs/integertochar.asm"
+#include "lib/ConstantFuncs/string-ref.asm"
+#include "lib/ConstantFuncs/plus.asm"
+#include "lib/ConstantFuncs/mul.asm"
+#include "lib/ConstantFuncs/minus.asm"
+
+#include "lib/ConstantFuncs/numeric_equal.asm"
+#include "lib/ConstantFuncs/numeric_greater.asm"
+#include "lib/ConstantFuncs/numeric_lower.asm"
+#include "lib/ConstantFuncs/make-string.asm"
+#include "lib/ConstantFuncs/make-vector.asm"
+#include "lib/ConstantFuncs/vector.asm"
+#include "lib/ConstantFuncs/map.asm"
+#include "lib/ConstantFuncs/list.asm"
+#include "lib/ConstantFuncs/append.asm"
+
+#include "lib/ConstantFuncs/divide.asm"
+#include "lib/ConstantFuncs/apply.asm"
+#include "lib/ConstantFuncs/remainder.asm"
+
+#include "lib/ConstantFuncs/listtovector.asm"
+
+
+
+
+
+
